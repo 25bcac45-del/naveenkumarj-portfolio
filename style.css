@@ -1,0 +1,25 @@
+Css
+Copy code
+body {
+background:black;
+color:white;
+font-family:Arial;
+margin:0;
+}
+
+header {
+background:purple;
+padding:20px;
+text-align:center;
+}
+
+section {
+padding:20px;
+margin:10px;
+border:1px solid purple;
+border-radius:10px;
+}
+
+h2 {
+color:violet;
+}
